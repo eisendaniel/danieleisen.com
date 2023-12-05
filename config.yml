@@ -73,7 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    # Title: "Hi there \U0001F44B"
+    Title: "Under Construction \U0001F6A7"
     Content: Welcome to my stuff
 
   socialIcons:
